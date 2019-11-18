@@ -31,7 +31,7 @@ Team All Vision is currently active in developing multiple ongoing projects in m
   This idea is born of [*Lifeguard.IO*](https://devpost.com/software/lifeguard-io), which is a previous project brainchild of one of our founders. The project dealt action recognition with deep neural nets to accurately detect those who were drowning in real time, which won [HackHarvard](https://hackharvard.io/) 2017. The Lifeguard.IO research team to which our Chief Scientist belonged, continued research on improving the underlying architecture of the system as part of All Vision Intelligence.
   
   
-  
+![safety](https://github.com/chetan-velivela/chetan-velivela.github.io/blob/master/images/safety.png)  
   
 ### INSIGHT.VISION
 
@@ -52,10 +52,10 @@ _
 
 *Background*: Chetan is the Chief Scientist at All Vision and heads the research and development and holds a strong track record of delivering commercially viable AI and computer vision applications and has strong experience with deploying effective and viable industry level machine learning models
 
-_Abhi Gondi_
+_Abhi_
 ![abhi](https://github.com/chetan-velivela/chetan-velivela.github.io/blob/master/images/abhi.jpeg)
 
-*Background*: Abhi leads the financial planning, fundamental research and operations at All Vision. He is an experienced financial quantitative professional with industry experience and business acumen to go with it.
+*Background*: Abhi leads the financial planning, fundamental research and operations at All Vision. He is an experienced quantitative professional with industry experience and business acumen to go with it.
 
 _Joe Lacy_
 ![joe](https://github.com/chetan-velivela/chetan-velivela.github.io/blob/master/images/joe.jpeg)
