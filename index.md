@@ -60,7 +60,11 @@ _Abhi_
 _Joe Lacy_
 ![joe](images/joe.jpeg)
 
-*Background*: Joe leads the product and growth divisions of All Vision and is the resident project manager. He is an Army National Guard and has also lead growth initiatives in three Y Combinator startups before All Vision
+*Background*: Joe leads the product and growth divisions of All Vision and is the resident project manager. He is an Army National Guard and has also lead growth initiatives in three Y Combinator startups before All Vision. 
+
+
+![nvidia](images/NV_Inception_Program_Logo_NV_Inception_Logo_V_CMYK.png)
+
 
 
   
