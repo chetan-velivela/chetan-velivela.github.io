@@ -30,7 +30,7 @@ Team All Vision is currently active in developing multiple ongoing projects in m
   The aim of the Secure.Vision wing is to provide custom made commercial level security and defense solutions to enhance safety and provide the much needed advantage in tactical situations through Computer Vision. The focus for Secure.Vision in phase one is to research the feasibility of creating a way to detect violent actions and predict imminent violence using data gathered by camera and video feeds. All existing violence detection systems employ deep neural nets (specifically 3-D CNNs) for spatio-temporal analysis on video data.
   This idea is born of [*Lifeguard.IO*](https://devpost.com/software/lifeguard-io), which is a previous project brainchild of one of our founders. The project dealt action recognition with deep neural nets to accurately detect those who were drowning in real time, which won [HackHarvard](https://hackharvard.io/) 2017. The Lifeguard.IO research team to which our Chief Scientist belonged, continued research on improving the underlying architecture of the system as part of All Vision Intelligence.
   
-  ![safety](https://github.com/chetan-velivela/chetan-velivela.github.io/blob/master/images/safety.png)
+  
   
   
 ### INSIGHT.VISION
