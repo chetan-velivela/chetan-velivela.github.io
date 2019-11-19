@@ -63,7 +63,13 @@ _Joe Lacy_
 *Background*: Joe leads the product and growth divisions of All Vision and is the resident project manager. He is an Army National Guard and has also lead growth initiatives in three Y Combinator startups before All Vision. 
 
 
+### CORPORATE AFFILIATIONS AND INCUBATORS
+
+All Vision Intelligence is a proud entrant into the coveted _NVIDIA Inception Program 2019_ and is supported and affiliated to NVIDIA as the technology partner and supplier
 ![nvidia](images/NV_Inception_Program_Logo_NV_Inception_Logo_V_CMYK.png)
+
+### _Contact Us, we'd love to hear from you_
+### team@all.vision or give us a call at 856.535.8712
 
 
 
