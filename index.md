@@ -63,7 +63,7 @@ _Joe Lacy_
 *Background*: Joe leads the product and growth divisions of All Vision and is the resident project manager. He is an Army National Guard and has also lead growth initiatives in three Y Combinator startups before All Vision. 
 
 *Sheel Patel*
-![sheel](images/sheel.jpeg)
+![sheel](images/sheel2.jpeg)
 
 *Background*:Sheel has built a tool to conduct remote diagnostics on 400,000+ vehicles in Tesla fleet; developing automatic object detection algorithm for solar roof segmentation using Computer Vision. Sheel possesses experience leading several ventures. He built mobile apps with 10,000+ downloads as Founder of Beaver, Ltd. 
 
