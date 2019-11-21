@@ -16,7 +16,7 @@ Team All Vision is currently active in developing multiple ongoing projects in m
 
   Our in house designed and developed *Cashier.Vision ARC* module automatically recognizes the items being placed on a constanlty moving checkout belt system and bills it up as the items are loaded. This completely cuts out the arduous task of waiting in line while the cashier struggles with a bar code to scan the items on the belt. 
   
-  ![Exploded_View](images/Exploded_View_Cashier_Vision.png)
+![Exploded_View](images/Exploded_View_Cashier_Vision.png)
   
   The propreitary alogorithm being deployed through this module is expected to increase the number of items scanned per minute by almost 10 times than a traditional self checkout systems currently in place.
 
